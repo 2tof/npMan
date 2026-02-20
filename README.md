@@ -23,10 +23,10 @@ curl -sL https://raw.githubusercontent.com/2tof/npMan/main/npman.sh | sudo bash 
  4. Uninstall (np -u) 
  0. Exit
 ···
+
 NP项目：
 Nodepass Project
 https://github.com/NodePassProject
-
 https://nodepass.eu/
 
 NP sh脚本安装
