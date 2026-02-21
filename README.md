@@ -24,6 +24,7 @@ curl -sL https://raw.githubusercontent.com/2tof/npMan/main/npman.sh | sudo bash 
 ```
 
 - v1.0菜单
+  
 1.Stop API (np -o)
 
 2.Change KEY (np -k)
